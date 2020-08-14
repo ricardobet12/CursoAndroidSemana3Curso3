@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Ricardo</string>
+    <string name="telefono">312334444</string>
+    <string name="like">3</string>
+    <string name="email">ricardo.bat@utp.edu.co</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+
+</resources>
